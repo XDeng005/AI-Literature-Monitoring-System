@@ -1,0 +1,8 @@
+{
+  "research_topic": "XXXXXXXXXXXXXXX",
+  "keywords_core": ["XXXX1", "XXXX2", "XXXX3"],
+  "keywords_extended": ["XXXX4", "XXXX5", "XXXX6"],
+  "entity_tags": ["XXXX01", "XXXX02"],
+  "daily_fetch_limit": 20,
+  "ai_relevance_rule": "XXXXXXXXXXXXXXXXXXXXXX"
+}
