@@ -48,3 +48,9 @@ The system is designed for researchers who need an automated, scalable literatur
 
 ``` id="arch1"
 Fetch → AI Filter → Storage → Zotero → Email Report
+
+## License
+
+This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
+
+For commercial use, please contact the author.
